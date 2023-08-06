@@ -52,3 +52,5 @@
 | 18	| 1 | U2	| STM32F103C8Tx	| MCU_ST_STM32F1:STM32F103C8Tx	| Package_QFP:LQFP-48_7x7mm_P0.5mm |	https://www.st.com/resource/en/datasheet/stm32f103c8.pdf |
 | 19 |	1|	Y1 |	8MHz	| Device:Crystal_Small	| Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm	| ~ |
 
+# REFERENCES
+[1]  https://www.youtube.com/watch?v=wLwKgMBWhpY
